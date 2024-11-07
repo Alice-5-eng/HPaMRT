@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/chapter6.rpy", line 15, in script
+    jump start7
+ScriptError: could not find label 'start7'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/chapter6.rpy", line 15, in script
+    jump start7
+  File "/home/julia/Загрузки/renpy-8.3.2-sdk/renpy/ast.py", line 1699, in execute
+    rv = renpy.game.script.lookup(target)
+  File "/home/julia/Загрузки/renpy-8.3.2-sdk/renpy/script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'start7'.
+
+Linux-5.15.0-124-generic-x86_64-with-glibc2.31 x86_64
+Ren'Py 8.3.3.24103101+nightly
+Harry Potter and MRT 1.0
+Sun Nov  3 11:44:15 2024

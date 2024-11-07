@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 14: invalid syntax
+    Character("Люциус", color'#505050')
+                              ^
+
+Ren'Py Version: Ren'Py 8.3.3.24103101+nightly
+Sun Nov  3 10:47:18 2024

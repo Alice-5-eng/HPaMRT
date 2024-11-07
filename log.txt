@@ -1,0 +1,30 @@
+2024-11-05 16:48:03 UTC
+Linux-5.15.0-124-generic-x86_64-with-glibc2.31
+Ren'Py 8.3.3.24103101+nightly
+
+Early init took 0.11s
+Loading error handling took 0.35s
+Loading script took 3.66s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.24s
+Loading analysis data took 0.00s
+Analyze and compile ATL took 0.02s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to '/home/julia/.renpy/backups/Harry Potter nd mrt':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.07s
+Save screen analysis took 0.03s
+Prepare screens took 0.32s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.05s
